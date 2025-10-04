@@ -24,6 +24,7 @@
 ## 🚀 Технологии
 
 - React + Vite
+- JavaScript
 - Redux Toolkit
 - lightweight-charts
 - ethers.js
