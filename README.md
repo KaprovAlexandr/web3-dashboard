@@ -25,6 +25,7 @@
 
 - React + Vite
 - JavaScript
+- Tailwind CSS
 - Redux Toolkit
 - lightweight-charts
 - ethers.js
